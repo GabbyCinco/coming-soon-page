@@ -1,0 +1,18 @@
+html {
+  font-family: 'Muli', sans-serif;
+}
+
+h1, .coral {
+  color: #FF977E;
+}
+
+.border-yellow {
+  border-color: #FFE5A9;
+  border-width: 13px;
+  border-style: solid;
+}
+
+.profile {
+  max-width: 35em;
+  min-height: 25em;
+}
